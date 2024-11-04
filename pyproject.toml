@@ -16,7 +16,7 @@ dependencies = [
 ]
 requires-python = ">= 3.9"
 keywords = ['manim', 'manim community', 'animation']
-version = '0.0.1'
+version = '0.0.2'
 classifiers = [
     "Development Status :: 4 - Beta",
     'Programming Language :: Python :: 3',
@@ -39,3 +39,4 @@ include-package-data = false
 [project.urls]
 Homepage = "https://github.com/movimentum/manim_ext_movi"
 Repository = "https://github.com/movimentum/manim_ext_movi.git"
+Download = "https://pypi.org/project/manim-ext-movi/"
