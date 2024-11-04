@@ -1,0 +1,18 @@
+# Python
+*.pyc
+
+
+# Distribution
+dist
+*.egg-info
+
+
+# Manim rendering
+media
+
+
+# Development
+.spyproject
+*.ai
+
+
